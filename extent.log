@@ -1,0 +1,6 @@
+2023-08-18 11:37:43,015  INFO [main] base:34 - Test Execution Started !!!
+2023-08-18 11:37:43,017  INFO [main] base:45 - or Properties file is loaded
+2023-08-18 11:37:43,039  INFO [main] base:55 - Launching Chrome browser
+2023-08-18 11:37:45,178  INFO [main] base:65 - Maximize The Browser
+2023-08-18 11:37:45,190  INFO [main] base:72 - Navigating the URL :- https://www.way2automation.com/angularjs-protractor/banking/#/login
+2023-08-18 11:37:45,940  INFO [main] base:22 - clicking an element :Bank Manager Button
